@@ -4,6 +4,16 @@ TI-99/4A executable for ForceCommand.
 
 Requires ForceCommand 2.0 or greater.
 
+## Download
+
+Zipfile in releases: [https://github.com/jedimatt42/fc_romdump/releases]
+
+contains:
+
+- FC_ROMDUMP.DSK : 90K floppy image with ROMDUMP executable
+- ROMDUMP : TIFILES format executable
+- README.md : this document
+
 ## Usage
 
 ROMDUMP <output-filename>
