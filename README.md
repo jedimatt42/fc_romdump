@@ -6,7 +6,7 @@ Requires ForceCommand 2.0 or greater.
 
 ## Download
 
-Zipfile in releases: [https://github.com/jedimatt42/fc_romdump/releases]
+Zipfile in [releases](https://github.com/jedimatt42/fc_romdump/releases)
 
 contains:
 
